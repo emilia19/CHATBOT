@@ -1,0 +1,32 @@
+[
+  {
+    "id": "530072be-00e8-40d9-a9f6-97bc639e1a7a",
+    "data": [
+      {
+        "text": "español",
+        "meta": "@Tipoidioma",
+        "alias": "Tipoidioma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "865d13e6-eae7-42c4-bae6-e50175708bab",
+    "data": [
+      {
+        "text": "espanol",
+        "meta": "@Tipoidioma",
+        "alias": "Tipoidioma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  }
+]

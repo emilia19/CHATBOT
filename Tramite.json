@@ -1,0 +1,9 @@
+{
+  "id": "bedb11c6-86dd-4418-9641-470bb688fa3a",
+  "name": "Tramite",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

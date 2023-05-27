@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ad556228-963e-4da6-a9a8-3e82cca15012",
+    "data": [
+      {
+        "text": "tramite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e6e545ed-947a-4277-b3fc-1da02885a2de",
+    "data": [
+      {
+        "text": "ayuda por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "33360e42-8771-4f6d-a435-2b6711afa273",
+    "data": [
+      {
+        "text": "ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4b76edc3-659f-49d0-93dc-64fbeb163a51",
+    "data": [
+      {
+        "text": "hi",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "afec6243-5e83-4398-9e26-faadfb107d80",
+    "data": [
+      {
+        "text": "hola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aca303d0-d929-4543-8ae7-acbc8aa5d181",
+    "data": [
+      {
+        "text": "Quiero realizar ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " tramite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "56298d2e-2f1e-495e-ab63-6206394c0e30",
+    "data": [
+      {
+        "text": "Necesito ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

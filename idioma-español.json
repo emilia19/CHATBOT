@@ -1,0 +1,50 @@
+{
+  "id": "4ea9e4c3-ff18-4c81-b964-b0316ca5ec61",
+  "name": "idioma-español",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a3833e94-ea04-45d6-bee7-db7bf5335373",
+          "name": "Tipoidioma",
+          "required": false,
+          "dataType": "@Tipoidioma",
+          "value": "$Tipoidioma",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Elije el tramite por el cual deseas ser informado en lenguaje $Tipoidioma                                           1. Tramite de  Licencias de funcionamiento                                                                        2. Partida de nacimiento                                                                                        \n3.Registro de damnificados"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

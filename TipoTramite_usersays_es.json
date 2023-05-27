@@ -1,0 +1,226 @@
+[
+  {
+    "id": "f11758d2-6e4b-4ae3-9958-b02882e85581",
+    "data": [
+      {
+        "text": "tramite de ",
+        "userDefined": false
+      },
+      {
+        "text": "licencias",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "00c4434c-2c36-446c-a6ff-d9adc039794f",
+    "data": [
+      {
+        "text": "español",
+        "meta": "@Tipoidioma",
+        "alias": "Tipoidioma",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "43156c3f-c9a0-4730-8727-1bcee4b3063d",
+    "data": [
+      {
+        "text": "licencias de funcionamiento",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "05a630a2-7328-4885-bb2d-4874e813402f",
+    "data": [
+      {
+        "text": "licencias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "06b69ad0-81f2-4be3-9c67-6cf31a14924d",
+    "data": [
+      {
+        "text": "tramite",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": false
+      },
+      {
+        "text": " de llicencias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f2a3646d-2dfa-4510-bba2-af50187a449b",
+    "data": [
+      {
+        "text": "\u003cfont style\u003d\"vertical-align: inherit;\"\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003eTr \u003c/font\u003e\u003c/font\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003ea m \u003c/font\u003e\u003c/font\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003ei \u003c/font\u003e\u003c/font\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003et \u003c/font\u003e\u003c/font\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003ee \u003c/font\u003e\u003c/font\u003e \u003cfont style\u003d\"vertical-align: inherit;\"\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003ed \u003c/font\u003e\u003c/font\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003e\u003cfont style\u003d\"vertical-align: inherit;\"\u003ee \u003c/font\u003e",
+        "userDefined": false
+      },
+      {
+        "text": "L",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "ic",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "en",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "c",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "i",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "a",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "s",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "de",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "f",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "u",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "n",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "c",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "i",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "o",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "n",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "a",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "mi",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "e",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "n",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "t",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "o",
+        "meta": "@Tramite",
+        "alias": "Tramite",
+        "userDefined": true
+      },
+      {
+        "text": "\u003c/font\u003e",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

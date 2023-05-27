@@ -1,0 +1,9 @@
+{
+  "id": "19d6774c-c057-4310-bcf8-d8c4a668f538",
+  "name": "Tipoidioma",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

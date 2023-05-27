@@ -1,0 +1,64 @@
+{
+  "id": "4d3803bb-a693-443b-9285-11f20f694ce9",
+  "name": "TipoTramite",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c1ba3648-1e88-47d0-a50f-b0a492ca816d",
+          "name": "Tramite",
+          "required": false,
+          "dataType": "@Tramite",
+          "value": "$Tramite",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ae77ba05-e0bf-4a23-93ea-288a887e7fdf",
+          "name": "Tipoidioma",
+          "required": false,
+          "dataType": "@Tipoidioma",
+          "value": "$Tipoidioma",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Estos son los pasos para el  Tramite de  $Tramite                                                                 ---------------------------------------------Requisitos---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n*Formato de declaración jurada para licencia de funcionamiento de persona natural o de persona jurídica, según corresponda.\n*Copia de tu DNI o de tu representante legal, si se trata de persona jurídica.\n*Anexo 1 - Solicitud de Inspección Técnica de Seguridad en Edificaciones (ITSE).\n*Anexo 2 - Formato de información proporcionada por el solicitante para determinar *el nivel de riesgo del establecimiento.\n*Anexo 3 - Reporte de riesgo del establecimiento.\n*Anexo 4 - Declaración jurada de cumplimiento de las condiciones de seguridad en la edificación.\n*Formato de autorización de notificación electrónica.\n*Si tu negocio está relacionado a servicios de salud, agrega declaración jurada de contar con título profesional vigente o copia del título profesional y encontrarse habilitado por el colegio profesional correspondiente.\n*Declaración jurada de contar con el número de estacionamientos exigible, según lo establecido en el artículo 9 de la Ley N°28976.\n*Declaración jurada de contar con la autorización sectorial respectiva en el caso de aquellas actividades que conforme a Ley N° 28976, la requieran de manera previa al otorgamiento de la licencia de funcionamiento.\n*Si se trata de un inmueble declarado monumento del patrimonio cultural de la nación, agrega copia simple de la autorización expedida por el Ministerio de Cultura, conforme a la Ley N° 28296."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

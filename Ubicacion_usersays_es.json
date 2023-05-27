@@ -1,0 +1,47 @@
+[
+  {
+    "id": "e9eb79d2-db5c-49a0-b27d-12d42f94a2a4",
+    "data": [
+      {
+        "text": "donde queda ",
+        "userDefined": false
+      },
+      {
+        "text": "la municipalidad de marañon",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c3151759-32e2-4486-b168-e0eac7240726",
+    "data": [
+      {
+        "text": "donde se encuentran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "85eb0d0e-727b-44a7-9471-0c8693653e6a",
+    "data": [
+      {
+        "text": "donde estan ubicados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
